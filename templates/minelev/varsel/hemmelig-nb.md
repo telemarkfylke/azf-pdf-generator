@@ -11,7 +11,7 @@ info:
 
 # Varsel må sendes til {{ student.name }}
 
-Det er i dag produsert et varsel i MinElev til {{ student.name }} i klasse {{ student.classId }} fra {{ teacher.name }}.
+Det er i dag produsert et varsel i MinElev til {{ student.name }} i klasse {{ student.basisgruppe }} fra {{ teacher.name }}.
 
 Eleven har enten adressesperring, er registrert i unntakslisten til MinElev, eller har ikke tilgjengelig adresse i folkeregisteret, og har derfor ikke fått sitt brev i sin digitale postkasse. Varselet er arkivert i eleven sin elevmappe i 360.
 

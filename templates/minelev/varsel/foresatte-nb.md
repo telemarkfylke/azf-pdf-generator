@@ -11,7 +11,7 @@ info:
 
 # Varsel tilhørende {{ student.name }} må distribueres
 
-Det er i dag produsert et varsel i MinElev til {{ student.name }} i klasse {{ student.classId }} fra {{ teacher.name }}.
+Det er i dag produsert et varsel i MinElev til {{ student.name }} i klasse {{ student.basisgruppe }} fra {{ teacher.name }}.
 
 Siden eleven er under 18 år skal også foresatte informeres. MinElev klarte ikke å finne korrekte foresatte for eleven automatisk, og varselet må distribueres etter de bestemmelsene som er gjort for eleven.
 

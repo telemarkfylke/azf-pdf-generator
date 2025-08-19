@@ -11,7 +11,7 @@ info:
 
 # Brev må sendes til {{ student.name }}
 
-Det er i dag produsert et brev i MinElev til {{ student.name }} i klasse {{ student.classId }} fra {{ teacher.name }} fordi eleven har takket nei til elevsamtale.
+Det er i dag produsert et brev i MinElev til {{ student.name }} i klasse {{ student.basisgruppe }} fra {{ teacher.name }} fordi eleven har takket nei til elevsamtale.
 
 Eleven har enten adressesperring, er registrert i unntakslisten til MinElev, eller har ikke tilgjengelig adresse i folkeregisteret, og har derfor ikke fått sitt brev i sin digitale postkasse.
 
