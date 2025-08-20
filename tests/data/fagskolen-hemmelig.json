@@ -1,0 +1,24 @@
+{
+	"system": "minelev",
+	"template": "fagskolen/hemmelig",
+	"language": "nb",
+	"type": "2",
+	"version": "B",
+	"data": {
+		"created": {
+			"timestamp": 1711689485600
+		},
+		"student": {
+			"name": "Bjartmar Ingolf",
+			"basisgruppe": "3STB"
+		},
+		"documentNumber": "25/12345-1",
+		"teacher": {
+			"name": "Guddrund Gjerde"
+		},
+		"school": {
+			"name": "Fagskolen vinkjeller"
+		},
+		"variant": "Forhåndsvarsel"
+	}
+}

@@ -1,0 +1,61 @@
+{
+  "system": "minelev",
+  "template": "fagskolen/forhandsvarsel",
+  "language": "nb",
+  "data": {
+    "preview": true,
+    "created": {
+      "timestamp": 1606252264318,
+      "createdBy": "tes0101"
+    },
+    "modified": [{
+      "timestamp": 1606252264318,
+      "modifiedBy": "tes0101"
+    }],
+    "type": "fagskolen",
+    "variant": "forhandsvarsel",
+    "student": {
+      "username": "bra2001",
+      "name": "Legolas Greenleaf",
+      "firstName": "Legolas",
+      "lastName": "Greenleaf"
+    },
+    "recipient": {
+      "fullName": "Legolas Greenleaf",
+      "streetAddress": "Alveskogen 14",
+      "zipCode": "7879",
+      "zipPlace": "Kløvdal"
+    },
+    "content": {
+      "course": {
+        "id": "01234567",
+        "name": "2HAAN-P/36HH31C/1 Pil og bue",
+        "nb": "Pil og bue",
+        "nn": "Pil og bue",
+        "en": "Bow and Arrow"
+      },
+      "assignment": "Arbeidskrav 2: Bue-teori",
+      "contactWithinDays": 7
+    },
+    "teacher": {
+      "username": "tes0101",
+      "name": "Testine Testen",
+      "firstName": "Testine",
+      "lastName": "Testen",
+      "mail": "testine.testen@skole.no"
+    },
+    "school": {
+      "id": "FIV",
+      "name": "Fagskolen Vestfold og Telemark",
+      "shortName": "Fagskolen"
+    },
+    "isEncrypted": false,
+    "status": [
+        {
+        "status": "queued",
+        "timestamp": 1606252264318
+      }
+    ],
+    "isQueued": true
+  }
+}
