@@ -16,6 +16,7 @@ const testDocumentsTypes = [
   'vigo-KONTRAKT-response',
   'fagskolen-forhandsvarsel',
   'fagskolen-forhandsvarsel-nn',
+  'fagskolen-forhandsvarsel-en',
   'fagskolen-hemmelig'
 ]
 
