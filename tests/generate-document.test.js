@@ -15,6 +15,7 @@ const testDocumentsTypes = [
   'yff-tilbakemelding',
   'vigo-KONTRAKT-response',
   'fagskolen-forhandsvarsel',
+  'fagskolen-forhandsvarsel-nn',
   'fagskolen-hemmelig'
 ]
 
